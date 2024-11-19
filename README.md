@@ -17,7 +17,6 @@ In this project, I used SageMaker to construct a complete project from end to en
 	```
 		git clone https://github.com/glaxmiprasad/Deploying-a-Sentiment-Analysis-Model-using-SageMaker.git
 	```
-
 2. Open the `SageMaker Project.ipynb` file. Of course, you can find HTML version of the file.
 	```
 		jupyter notebook SageMaker Proejct.ipynb
